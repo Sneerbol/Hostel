@@ -40,3 +40,19 @@ section#main {
     padding: 10px;
     border-radius: 5px;
 }
+
+.main_btn {
+    background-color: #a60436;
+    border: none;
+    border-bottom: 3px solid #970230;
+    border-radius: 5px;
+    padding: 12px 40px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.main_btn:hover {
+    background-color: #d90043;
+    padding-bottom: 3px;
+}
+  
